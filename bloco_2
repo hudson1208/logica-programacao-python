@@ -1,0 +1,10 @@
+num1 = int(input("Digite seu num1: "))
+num2 = int(input("Digite seu num2: "))
+num3 = num1+num2
+# num4 = num1-num2
+# num5 = num1*num2
+# num6 = num1/num2
+
+print("a soma e", num3)
+# 1
+
