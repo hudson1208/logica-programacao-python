@@ -22,4 +22,4 @@ print(f"Divisão: {num1 / num2}")
 print(f"Divisão inteira: {num1 // num2}")
 print(f"Resto da divisão: {num1 % num2}")
 print(f"Potência: {num1 ** num2}")
-
+    
