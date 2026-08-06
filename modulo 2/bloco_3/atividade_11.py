@@ -1,3 +1,4 @@
+"""
 # ### Atividade 11 — Estatísticas da turma
 
 # Solicite quatro notas, armazenando-as em uma lista. Ao final, apresente:
@@ -8,6 +9,8 @@
 # - média da turma.
 
 # Utilize as funções nativas da linguagem sempre que possível.
+"""
+
 
 notas = []
 

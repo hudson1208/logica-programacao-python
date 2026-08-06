@@ -1,3 +1,4 @@
+"""
 # ### Atividade 12 — Pesquisa de nomes
 
 # Cadastre inicialmente os seguintes alunos:
@@ -13,6 +14,7 @@
 # ```
 
 # Solicite um nome ao usuário e informe se ele está presente na lista. Caso esteja, apresente também sua posição.
+"""
 
 alunos = [
     "Ana",

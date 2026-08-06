@@ -1,4 +1,4 @@
-# ### Atividade 13 — Controle de produtos
+""" # ### Atividade 13 — Controle de produtos
 
 # Crie um menu com as opções:
 
@@ -12,17 +12,18 @@
 # Os produtos deverão ser armazenados em uma lista durante a execução do programa.
 
 # Utilize estruturas de repetição e `match-case ` para controlar o menu.
+"""
 
 produtos = []
 
 while True:
-    print("\n=== CONTROLE DE PRODUTOS ===")
-    print("1 - Adicionar produto")
-    print("2 - Remover produto")
-    print("3 - Listar produtos")
-    print("4 - Encerrar")
+    print("""=== CONTROLE DE PRODUTOS ===
+    1 - Adicionar produto
+    2 - Remover produto
+    3 - Listar produtos
+    4 - Encerrar""")
 
-    opcao = input("Escolha uma opção: ")
+    opcao = input("\nEscolha uma opção: ")
 
     match opcao:
         case "1":

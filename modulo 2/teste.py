@@ -85,5 +85,14 @@
 # crescente = sorted(notas)
 # j
 
+produto = []
 
+while True:
+    print("\n===CONTROLE DE PROTUDOS===")
+    print("1 - adicionar o produto")
+    print("2 - remover o produto")
+    print("3 - lista o produro")
+    print("4 - encerra")
+
+    opçao = input(" ")
 

@@ -1,4 +1,4 @@
-# ### Desafio 03 — Boletim da Turma
+"""# ### Desafio 03 — Boletim da Turma
 
 # Desenvolva um programa que permita cadastrar vários alunos. Para cada estudante, informe seu nome e quatro notas. Ao final do cadastro, apresente um relatório contendo:
 
@@ -10,6 +10,7 @@
 # - média geral da turma.
 
 # Utilize listas, estruturas condicionais e laços de repetição para organizar a solução.
+"""
 
 alunos = []
 
