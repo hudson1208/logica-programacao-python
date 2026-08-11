@@ -15,11 +15,30 @@
 
 # ////////////////////////////////////////////////////////////////////////////////////////////
 
-contatos = []
+# contatos = []
 
-for i in range(5):
-    print(f"\nCadastro do {i + 1}º contato")
+# for i in range(5):
+#     print(f"\nCadastro do {i + 1}º contato")
 
-    nome = input("Nome: ")
-    telefone = input("Telefone:")
-    email =
+#     nome = input("Nome: ")
+#     telefone = input("Telefone:")
+#     email =
+#     # ////////////////////////////////////////////////////
+
+# pessoa = {}
+
+# pessoa["nome"] = input("Digite o nome da pessoa: ")
+# pessoa["idade"] = int(input("Digite a idade da pessoa"))
+# pessoa["cidade"] = input("Digite a cidade da pessoa: ")
+# pessoa["profissao"] = input("Digite a profissao da pessoa: ")
+
+# print("\n--- Dados da pessoa cadastrada ---")
+# print("Nome:", pessoa["nome"])
+# print("Idade:", pessoa["idade"])
+# print("Cidade:", pessoa["cidade"])
+# print("Profissão", pessoa["profissao"])
+# ///////////////////////////////////////////////////////////////////
+
+produto = {}
+
+pro

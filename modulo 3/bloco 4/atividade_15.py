@@ -22,7 +22,6 @@ for i in range(5):
 
     contatos.append(contato)
 
-# Pesquisa do contato
 nome_pesquisado = input("\nDigite o nome do contato que deseja pesquisar: ")
 
 contato_encontrado = False
